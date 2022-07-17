@@ -1,1 +1,2 @@
 # Anime-Recommendation-System
+Anime Recommendation system uses a CSV file with lots of anime entries. This Machine Learning Model uses the cosine library in order to find the similarity score of the other animes with the particular searched anime. The similarity score is based on the description, liking, name, etc. factors. The Higher the similarity score is, the more similar the anime is. Currently I am working on web development, so that I can upload these model for use.
